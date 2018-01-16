@@ -1,0 +1,56 @@
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\ContactManagmentSoftware.exe.config
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.csprojResolveAssemblyReference.cache
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.csproj.ContactManagmentSoftware.exe.config
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\AddAddressWindow.g.cs
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\DisplayWindow.g.cs
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\EditContact.g.cs
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\MainWindow.g.cs
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\SearchContact.g.cs
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\App.g.cs
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware_MarkupCompile.cache
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware_MarkupCompile.lref
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\ContactManagmentSoftware.exe
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\ContactManagmentSoftware.pdb
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Data.dll
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Web.dll
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\AddAddressWindow.baml
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\DisplayWindow.baml
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\EditContact.baml
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\MainWindow.baml
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\SearchContact.baml
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.g.resources
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.Properties.Resources.resources
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.csproj.GenerateResource.Cache
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.exe
+C:\Users\julie\Desktop\Contact managment software\Nouveau dossier\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.pdb
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\ContactManagmentSoftware.exe.config
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.exe
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.pdb
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\ContactManagmentSoftware.exe
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\ContactManagmentSoftware.pdb
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Data.dll
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\bin\Debug\MySql.Web.dll
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.csprojResolveAssemblyReference.cache
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.csproj.ContactManagmentSoftware.exe.config
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\AddAddressWindow.g.cs
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\DisplayWindow.g.cs
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\EditContact.g.cs
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\MainWindow.g.cs
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\SearchContact.g.cs
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\App.g.cs
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware_MarkupCompile.cache
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware_MarkupCompile.lref
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\AddAddressWindow.baml
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\DisplayWindow.baml
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\EditContact.baml
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\MainWindow.baml
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\SearchContact.baml
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.g.resources
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.Properties.Resources.resources
+C:\Users\julie\Desktop\Contact managment software\Contact Managment version 2\ContactManagmentSoftware\ContactManagmentSoftware\obj\Debug\ContactManagmentSoftware.csproj.GenerateResource.Cache
